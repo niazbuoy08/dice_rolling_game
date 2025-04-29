@@ -2,7 +2,7 @@
 
 A feature-rich command-line dice rolling simulator with statistics tracking and customization options.
 
-![Dice Rolling Demo](https://via.placeholder.com/600x400.png?text=Dice+Roller+Demo) *Replace with actual screenshot*
+![Dice Rolling Demo](https://via.placeholder.com/600x400.png?text=Dice+Roller+Demo) 
 
 ## Features ✨
 
