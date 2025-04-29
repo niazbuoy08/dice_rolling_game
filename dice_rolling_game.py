@@ -4,7 +4,7 @@ def main():
     roll_history = []
     total_rolls = 0
     sum_counts = {}
-    sides = 6  # Default number of sides per die
+    sides = 6  
 
     print("Welcome to the Enhanced Dice Roller!")
     print("Type 'help' for available commands")
