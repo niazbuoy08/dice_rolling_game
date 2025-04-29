@@ -32,5 +32,5 @@ A feature-rich command-line dice rolling simulator with statistics tracking and 
 
 2. **Clone Repository**:
    ```bash
-   git clone https://github.com/yourusername/enhanced-dice-roller.git
-   cd enhanced-dice-roller
+   git clone https://github.com/yourusername/dice-roller.git
+   cd dice-roller
